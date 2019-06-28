@@ -1,0 +1,4 @@
+https://www.researchgate.net/publication/241686312_Fundamentals_of_Speaker_Recognition
+http://www.recognitiontechnologies.com/
+https://github.com/astorfi/3D-convolutional-speaker-recognition
+https://github.com/tyiannak/pyAudioAnalysis/wiki/3.-Feature-Extraction
